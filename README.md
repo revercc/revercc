@@ -1,4 +1,9 @@
 ### Hi there 👋
+* 🧐 二进制选手
+* ⚽ 德国队铁粉
+* 🦄 希望早日财富自由
+* 🌱 最近在学习网络和英语
+
 
 <!--
 **revercc/revercc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
