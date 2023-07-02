@@ -4,10 +4,10 @@
 
 
 ### Hi there 👋
-* 🧐 二进制选手
-* ⚽ 德国队铁粉
-* 🦄 专注于pc和移动安全
-* 🌱 最近在学习android
+* 🧐 Binary player
+* ⚽ Germany fans
+* 🦄 Focus on pc and mobile security
+* 🌱 I am learning android attack and defense recently
 
 
 
