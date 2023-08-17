@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=revercc&show_icons=true&locale=cn">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=revercc&show_icons=true&locale=cn&PAT_1=">
 
 
 
