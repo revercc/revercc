@@ -2,10 +2,7 @@
 
 
 ### Hi there 👋
-* 🧐 Binary player
-* ⚽ Germany fans
 * 🦄 Focus on pc and mobile security
-* 🌱 I am learning android attack and defense recently
 
 
 
